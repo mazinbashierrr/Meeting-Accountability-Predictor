@@ -1,0 +1,7 @@
+{
+  "model": "roberta-base (fine-tuned, class-weighted CE loss, oversampled)",
+  "cutoff": 0.95,
+  "test_precision": 0.3695652173913043,
+  "test_recall": 0.32075471698113206,
+  "test_f1": 0.3434343434343434
+}
