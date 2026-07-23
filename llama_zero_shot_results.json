@@ -1,0 +1,7 @@
+{
+  "model": "Meta LLaMA 3.2 3B Instruct (Zero-shot)",
+  "accuracy": 0.6755,
+  "precision": 0.0056,
+  "recall": 0.5849,
+  "f1": 0.0112
+}
